@@ -26,6 +26,8 @@ a STABLE SORT doesn't disturb sequences other than the sort key
        akita will remain BEFORE albatross even if they're now together
 
 an UNSTABLE sort would not guarantee that akita ALWAYS remains before albatross
+
+!!! PYTHON uses TIMSORT which is an INSERTION SORT + MERGESORT hybrid
        
 === INTERESTING QUESTIONS... =============================================================
 

@@ -81,3 +81,17 @@ func main() {
 	break in half until individual
 	then merge in sorted order
 */
+
+/*
+	runtime O(n logn)
+		why?
+			O LOGN for the splitting down
+			O(N) for sorting everything back into place
+				(we need to search through the entire sublist)
+
+		better than O(N^2) i guess because n * n weighs more than n * log n (log is smaler)
+
+	THIS SORT IS STABLE™
+
+	MERGING is useful pattern because it DROPS UNNECESSARY WORK EACH ITERATION
+*/
