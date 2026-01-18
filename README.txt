@@ -27,3 +27,7 @@ a STABLE SORT doesn't disturb sequences other than the sort key
 
 an UNSTABLE sort would not guarantee that akita ALWAYS remains before albatross
        
+=== INTERESTING QUESTIONS... =============================================================
+
+> why are Golang's random numbers so repeated?
+  you'll see many of the same if you randn a bunch of stuff into an array?
