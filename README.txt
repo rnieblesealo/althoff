@@ -69,5 +69,5 @@ LAST DIGIT: get the rightmost digit in a string
   -- GOLANG IMPLEMENTATION --
   
   [x] ANAGRAM
-  [ ] PALINDROME
+  [x] PALINDROME
   [ ] LAST DIGIT
