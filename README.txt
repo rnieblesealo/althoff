@@ -66,3 +66,8 @@ LAST DIGIT: get the rightmost digit in a string
   SOLUTION: filter out characters then take last element in digits
             ^ using PYTHON LIST COMPREHENSION
 
+  -- GOLANG IMPLEMENTATION --
+  
+  [x] ANAGRAM
+  [ ] PALINDROME
+  [ ] LAST DIGIT
