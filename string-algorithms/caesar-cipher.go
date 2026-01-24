@@ -54,3 +54,5 @@ func main() {
 
 	fmt.Printf("%s -e--> %s -d-->%s\n", s, s_enc, s_dec)
 }
+
+// This stuff is all O(N)

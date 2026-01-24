@@ -71,3 +71,31 @@ LAST DIGIT: get the rightmost digit in a string
   [x] ANAGRAM
   [x] PALINDROME
   [ ] LAST DIGIT
+
+=== BINARY ===============================================================================
+
+base -> AMOUNT OF DIGITS
+  so you never forge
+
+BINARY BASE 2 NOTATION I DIDNT KNO
+  (using 1010 as example value)
+
+    %1010 <--- percent prepend
+
+to form the FINAL VALUE,
+** EACH PLACE VALUE IS A POWER OF THE BASE **
+  specifically, place value (INCREASING FROM R TO L AND STARTING AT 0) is what we raise the base to
+
+e.g. BASE 10
+         1       4       5       2
+      10^3    10^2    10^1    10^0
+
+      (1*10^3) + (4*(10^2)) + (5*(10^1)) + (2*(10^0))
+    = 1000 + 400 + 50 + 2
+    = 1452 :)
+
+  this stuff slips my brain really easily so it's always good to review it
+
+=== NOTES / THINGS TO REMEMBER ===========================================================
+
+i skipped challenge 5/61 cuz it's python-specific and it's otherwise real easy
